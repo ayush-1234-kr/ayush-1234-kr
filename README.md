@@ -1,6 +1,3 @@
-I am Ayush Kumar
-___________________________________________________________________________________________________________
-
 # 💫 About Me:
 🔭 I’m currently working on improving my programming skills and building small projects  <br>👯 I’m looking to collaborate on beginner-friendly open-source projects and team-based coding work  <br>🤝 I’m looking for help with learning advanced concepts in data structures and algorithms  <br>🌱 I’m currently learning core Computer Science subjects, problem-solving, and new technologies  <br>💬 Ask me about C/Java/Python basics, DSA fundamentals, and college projects  <br>⚡ Fun fact: I enjoy debugging code more than writing it 😄<br>
 
